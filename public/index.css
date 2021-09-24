@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.form1{
+    margin: auto;
+    display: block;
+    justify-content: center;
+    height:150px;
+    width:300px;
+   
+    padding-top: 30px;
+}
+.name{
+    /* margin-left: 10px; */
+    /* display: block; */
+    width: 200px;
+    
+}
+.ename{
+    margin-left: 26px;
+    width: 200px;
+}
+.btn{
+    margin: auto;
+    display: block;
+    margin-top: 10px;
+    /* padding: 10px; */
+    /* font-size: 20px; */
+    text-align: center;
+    width:100px;
+    height:30px;
+    border-radius: 10px;
+}
